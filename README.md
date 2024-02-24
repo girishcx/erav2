@@ -2,7 +2,7 @@
 
 ## models.py
 
-### contains the definition of model,
+### contains the definition of neural network model
 
 ## utils.py
 
@@ -10,4 +10,4 @@
 
 ## S5.ipynb
 
-### is main script that uses the functions and classes defined in the other two files. The training and test losses and accuracies are printed at the end of each epoch.
+### This notebook is main script that uses the functions and classes defined in the other two files. The training and test losses and accuracies are printed at the end of each epoch.
