@@ -1,3 +1,4 @@
+import torch.utils
 from torchvision import datasets, transforms
 import torch.optim as optim
 import torch.nn as nn
