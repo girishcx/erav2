@@ -1,5 +1,13 @@
-# This code contains 3 files
+# This repository contains 3 files as described below
 
-##model.py
-##utils.py
-##S5.ipynb
+## models.py
+
+### contains the definition of model,
+
+## utils.py
+
+### contains the code for data loading, transformation, optimizer, scheduler, criterion, and the train and test functions
+
+## S5.ipynb
+
+### is main script that uses the functions and classes defined in the other two files. The training and test losses and accuracies are printed at the end of each epoch.
