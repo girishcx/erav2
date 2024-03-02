@@ -12,6 +12,24 @@
 
 ### w5,w6,w7 and w8 as 0.4, 0.45, 0.5 and 0.55
 
+## Process of back propagation
+
+### step 1:
+
+### compute neural network output(h1,h2,o1,o2), activated output(sigma)(a_h1,a_h2,a_o1,a_o2) based on initial weights(w1 to w8) and input(i1 and i2) in each layer
+
+### Compute the partial derivative of error wrt its previous layer weights based on chain rule
+
+### Finally compute partial derivative of error wrt initial weights w1 to w8 based on chain rule
+
+### step2
+
+### modify weights by initial weight - learning rate\* error/dweight
+
+### step3
+
+### plot the loss graph Error as we repeate the steps for a given learning rate
+
 ### overall back propagation results with learning rate 1
 
 ![overall back propagation with learning rate 1](./overall_bp_image1.png)
