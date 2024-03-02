@@ -12,4 +12,30 @@
 
 ### w5,w6,w7 and w8 as 0.4, 0.45, 0.5 and 0.55
 
+### overall back propagation results with learning rate 1
+
 ![overall back propagation with learning rate 1](./overall_bp_image1.png)
+
+### overall back propagation results with learning rate 0.1
+
+![overall back propagation with learning rate 0.1](./bp_image_0.1.png)
+
+### overall back propagation results with learning rate 0.2
+
+![overall back propagation with learning rate 0.2](./bp_image_0.2.png)
+
+### overall back propagation results with learning rate 0.5
+
+![overall back propagation with learning rate 0.5](./bp_image_0.5.png)
+
+### overall back propagation results with learning rate 0.8
+
+![overall back propagation with learning rate 0.8](./bp_image_0.8.png)
+
+### overall back propagation results with learning rate 1.0
+
+![overall back propagation with learning rate 1](./overall_bp_image1.png)
+
+### overall back propagation results with learning rate 2.0
+
+![overall back propagation with learning rate 2.8](./bp_image_2.png)
